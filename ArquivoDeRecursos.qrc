@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imagens/puc-goias-logo-06AD67F0EA7-seeklogo.com.png</file>
+        <file>imagens/9f6dffae-6464-4a52-bdd2-d10983f44ca0.jpg</file>
+        <file>imagens/luzes-de-neon-gradientes-abstratas.jpg</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/acessar1.png</file>
+        <file>icons/incluir1.png</file>
+        <file>icons/retirar1.png</file>
+    </qresource>
+</RCC>
